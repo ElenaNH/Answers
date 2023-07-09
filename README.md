@@ -2,7 +2,7 @@
 
 _Данный проект содержит ответы на вопросы домашних заданий_
 
-## __ДЗ__ https://github.com/netology-code/andin-homeworks/tree/master/09_supervision
+## __ДЗ__ https://github.com/netology-code/andin-homeworks/tree/ANDIN-36/09_supervision
 
 
 ### Вопросы: Cancellation
